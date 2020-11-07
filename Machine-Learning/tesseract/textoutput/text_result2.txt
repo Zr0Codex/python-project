@@ -1,0 +1,24 @@
+A frontal cat face detector using the full set of Haar features, i.e.
+horizontal, vertical, and diagonal features.
+
+Contributed by Joseph Howse (josephhowse@nummist.com).
+
+More information can be found in the following publications and
+presentations:
+
+Joseph Howse. OpenCV for Secret Agents (book). Packt Publishing, January
+2015.
+
+Joseph Howse. "Training Detectors and Recognizers in Python and Opencv"
+(tutorial). ISMAR 2014. September 9, 2014.
+http://nummist.com/opencv/Howse_ISMAR_20140909.pdf
+
+Joseph Howse. "Training Intelligent Camera Systems with Python and Opencv"
+(webcast). O’Reilly Media. June 17, 2014.
+http: //www.oreilly.com/pub/e/3077
+
+Build scripts and demo applications can be found in the following repository:
+https://bitbucket.org/Joe_Howse/angora-blue
+
+KNOWN LIMITATIONS:
+
