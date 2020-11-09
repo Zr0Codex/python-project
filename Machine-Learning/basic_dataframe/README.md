@@ -10,7 +10,6 @@
 
 - Summary values in dataframe:  26631.644999999997
 - Mean values in dataframe:  8.374731132075471
-- summary statics data:
 - count    3180.000000
 - mean        8.374731
 - std         4.381310
